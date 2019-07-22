@@ -1,3 +1,6 @@
 *.md
 learning_flask_venv/*
 *.idea
+**/__pycache__/
+*.DS_Store
+*.flaskenv
